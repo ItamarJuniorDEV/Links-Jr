@@ -90,7 +90,7 @@ body {
 }
 
 .light #switch button {
-  left: calc(100% - 32px);
+  left: calc(100% - 36px);
 }
 
 #switch span {
